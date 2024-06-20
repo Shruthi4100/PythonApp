@@ -1,0 +1,18 @@
+install python 
+
+python -m venv djangoenv
+
+djangoenv\Scripts\activate -> to activate  ; deactivate -> to deactivate
+
+pip install django
+
+python -m django --version
+
+django-admin startproject myfirstproject --> to start project
+
+ls
+
+cd myfirstproject
+
+python manage.py runserver
+
